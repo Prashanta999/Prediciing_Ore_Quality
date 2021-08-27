@@ -2,7 +2,8 @@
 
 ## Goal
 
-To predict final % concentrate of iron (ore) or silica (waste) ahead of time using time-series analysis which will allow engineers to maximize recovery while miniming tailings and decreasing costs. The typical flotation process can take 1-2 days. Being able to predict the final product before the process starts allows for feed-forward optimization rather than utilizing only feed back.
+- To predict final % concentrate of iron (ore) or silica (waste) ahead of time using time-series analysis which will allow engineers to maximize recovery while miniming tailings and decreasing costs. 
+- The typical flotation process can take 1-2 days. Being able to predict the final product before the process starts allows for feed-forward optimization rather than utilizing only feed back.
 
 ## Dataset
 
