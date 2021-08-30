@@ -27,7 +27,7 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 - I removed the date column for these models
 
-- The file for the mode lling can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/Regression%20Modeling.ipynb
+- The file for the modelling can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/Regression%20Modeling.ipynb
 
 
 ## Time Series Analyis
