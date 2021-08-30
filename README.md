@@ -4,7 +4,7 @@
 
 ## Goal
 
-- To predict final % concentrate of iron (ore) or silica (waste) ahead of time using time-series analysis which will help engineers to maximize recovery while minimizing tailings and decreasing costs. 
+- To predict final % concentrate of iron (ore) or silica (waste) ahead of time using machine learning & time-series analysis which will help engineers to maximize recovery while minimizing tailings and decreasing costs. 
 
 - Flotation processes can take 20-40 hours. Being able to predict the final product before the process starts allows for feed-forward optimization.
 
