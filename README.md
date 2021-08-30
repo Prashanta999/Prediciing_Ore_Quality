@@ -19,7 +19,7 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 - This updated dataset can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/Data_grouped_by_date.csv
 
-## Regression Model
+## Machine Learning (Regression Models)
 
 - Before doing time series analysis I wanted to see how accurate the data was at predicting % concentrate iron and % concentrate silica
 
@@ -29,6 +29,7 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 - The file for the modelling can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/Regression%20Modeling.ipynb
 
+## PCA + Machine Learning (Regression Models)
 
 ## Time Series Analyis
 
