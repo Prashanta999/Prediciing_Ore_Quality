@@ -31,7 +31,7 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 ## PCA + Machine Learning (Regression Models)
 
-## Time Series Analyis
+## Time Series Analysis
 
 
  
