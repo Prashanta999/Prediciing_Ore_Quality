@@ -1,6 +1,6 @@
 # Predicting Ore Quality
 
-**Authors: Prashanta Saha**
+**Author: Prashanta Saha**
 
 ## Goal
 
