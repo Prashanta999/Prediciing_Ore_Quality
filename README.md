@@ -1,4 +1,4 @@
-# Predicting_Ore_Quality
+# Predicting Ore Quality
 
 ## Goal
 
