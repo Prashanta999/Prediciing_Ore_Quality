@@ -1,5 +1,7 @@
 # Predicting Ore Quality
 
+Authors: Prashanta Saha
+
 ## Goal
 
 - To predict final % concentrate of iron (ore) or silica (waste) ahead of time using time-series analysis which will help engineers to maximize recovery while minimizing tailings and decreasing costs. 
