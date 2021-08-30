@@ -13,9 +13,9 @@
 - The Data set can be found on Kaggle at:
 https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
-- The biggest takeaway from analyzing this dataset is that the data is collected at different intervals for different columns. For example, % Iron feed, % Silica Feed, % Iron Concentrate and % Silica Concentrate are collected every hour whereas the other "process variables" are collected every 20 seconds. This poses an issue for time series analysis as we require each line in the dataset to be a unique time. To solve this issue I took the average of the values so each line in the dataset corresponds to one hour increments. This however significanly reduces the size of the originally dataset by 180x.
-
 - Data Gathering & EDA can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/Data%20Gathering%20%26%20EDA.ipynb
+
+- The biggest takeaway from analyzing this dataset is that the data is collected at different intervals for different columns. For example, % Iron feed, % Silica Feed, % Iron Concentrate and % Silica Concentrate are collected every hour whereas the other "process variables" are collected every 20 seconds. This poses an issue for time series analysis as we require each line in the dataset to be a unique time. To solve this issue I took the average of the values so each line in the dataset corresponds to one hour increments. This, however, significanly reduces the size of the originally dataset by 180x.
 
 - This updated dataset can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/Data_grouped_by_date.csv
 
