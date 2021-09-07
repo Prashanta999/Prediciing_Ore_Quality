@@ -33,6 +33,8 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 - I also tested how dimensionality reduction could help in predicting the models
 
+- The file for the modelling can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/PCA.ipynb
+
 - Since there aren't any strong correlations between the target variables and the normal variables, PCA doesn't provide any valuable insights
 
 ## Time Series Analysis
