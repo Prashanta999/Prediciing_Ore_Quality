@@ -35,10 +35,17 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 - The file for the modelling can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/PCA.ipynb
 
-- Since there aren't any strong correlations between the target variables and the normal variables, PCA doesn't provide any valuable insights
+- PCA doesn't provide any valuable insights for our models. This maybe due to the poor corrleations between the target and normal variables
 
 ## Time Series Analysis
 
+- The file for the modelling can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/PCA.ipynb
+
+- The time series analysis was done on google collab
+
+- My procedure for time series modelling involved firstly decomposing the the dataset in order to better understand any trend, seasonality or noise components in the model. The target variable was found to be stationary which allowed for MA and ARIMA to be created as baseline models. This was followed by LSTM model using multiple time steps and a 1D CNN model for time series
+
+- Time series provided the best results for prediciting "% Silica Concentrate" & "% Iron Concentrate"
 
  
 
