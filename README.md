@@ -39,7 +39,7 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 ## Time Series Analysis
 
-- The file for the modelling can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/PCA.ipynb
+- The file for the modelling can be found here: https://github.com/Prashanta999/Prediciing_Ore_Quality/blob/main/Time_Series_Analysis.ipynb
 
 - The time series analysis was done on google collab
 
