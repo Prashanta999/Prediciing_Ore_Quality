@@ -43,7 +43,7 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 - The time series analysis was done on google collab
 
-- My procedure for time series modelling involved firstly decomposing the the dataset in order to better understand any trend, seasonality or noise components in the model. The target variable was found to be stationary which allowed for MA and ARIMA to be created as baseline models. This was followed by LSTM model using multiple time steps and a 1D CNN model for time series
+- My procedure for time series modelling involved firstly decomposing the the dataset in order to better understand any trend, seasonality or noise components in the time series. The target variable was found to be stationary which allowed for MA and ARIMA to be created as baseline models. This was followed by a LSTM model using multiple time steps and a 1D CNN model for time series
 
 - Time series provided the best results for prediciting "% Silica Concentrate" & "% Iron Concentrate"
 
