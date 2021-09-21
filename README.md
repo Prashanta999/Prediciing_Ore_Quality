@@ -47,6 +47,8 @@ https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
 
 - Time series provided the best results for prediciting "% Silica Concentrate" & "% Iron Concentrate"
 
+- Due to the lack of data, doing multiple steps in time series provided subar results as compared to 1-time step models
+
  
 
 
